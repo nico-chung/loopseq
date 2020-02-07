@@ -1,0 +1,45 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Bacillus subtilis	1423	S	1767	3376	5143	0.18963
+Bacillus velezensis	492670	S	8	65	73	0.00272
+Bacillus amyloliquefaciens	1390	S	3	453	456	0.01681
+Bacillus licheniformis	1402	S	2	2	4	0.00018
+Bacillus sonorensis	119858	S	1	0	1	0.00004
+Bacillus cereus	1396	S	3	0	3	0.00011
+Bacillus anthracis	1392	S	1	0	1	0.00007
+Bacillus litoralis	152268	S	3	0	3	0.00011
+Bacillus megaterium	1404	S	2	0	2	0.00007
+Bacillus oceanisediminis	665099	S	2	0	2	0.00007
+Listeria monocytogenes	1639	S	4722	0	4722	0.17410
+Staphylococcus aureus	1280	S	1122	2617	3739	0.13787
+Staphylococcus schleiferi	1295	S	4	7	11	0.00043
+Staphylococcus auricularis	29379	S	3	0	3	0.00011
+Staphylococcus lugdunensis	28035	S	3	0	3	0.00014
+Staphylococcus epidermidis	1282	S	2	17	19	0.00072
+Staphylococcus kloosii	29384	S	2	0	2	0.00008
+Staphylococcus piscifermentans	70258	S	1	0	1	0.00006
+Staphylococcus condimenti	70255	S	1	0	1	0.00005
+Staphylococcus equorum	246432	S	1	20	21	0.00078
+Staphylococcus capitis	29388	S	1	3	4	0.00017
+Staphylococcus saprophyticus	29385	S	1	0	1	0.00006
+Staphylococcus pseudintermedius	283734	S	1	20	21	0.00079
+Staphylococcus simiae	308354	S	1	0	1	0.00004
+Staphylococcus simulans	1286	S	1	32	33	0.00123
+Staphylococcus haemolyticus	1283	S	1	2	3	0.00014
+Staphylococcus sp. SDB 2975	2044912	S	1	0	1	0.00006
+Lactobacillus fermentum	1613	S	3066	0	3066	0.11304
+Enterococcus faecalis	1351	S	2628	0	2628	0.09689
+Salmonella enterica	28901	S	3034	186	3220	0.11875
+Escherichia coli	562	S	902	1798	2700	0.09956
+Escherichia marmotae	1499973	S	1	0	1	0.00004
+Shigella flexneri	623	S	7	54	61	0.00228
+Klebsiella pneumoniae	573	S	4	1	5	0.00020
+Enterobacter cloacae	550	S	1	0	1	0.00005
+Enterobacter cloacae complex sp. ECNIH7	1915310	S	1	0	1	0.00005
+Enterobacter bugandensis	881260	S	1	0	1	0.00004
+secondary endosymbiont of Ctenarytaina eucalypti	1199245	S	1	0	1	0.00004
+Pseudomonas alcaliphila	101564	S	2	166	168	0.00620
+Pseudomonas fragi	296	S	2	685	687	0.02535
+Pseudomonas sp. M30-35	1981174	S	1	0	1	0.00004
+Candidatus Pseudomonas adelgestsugas	1302376	S	1	0	1	0.00004
+Pseudomonas aeruginosa	287	S	1	262	263	0.00970
+Pseudomonas synxantha	47883	S	1	28	29	0.00110

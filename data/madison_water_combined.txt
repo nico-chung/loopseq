@@ -1,0 +1,463 @@
+number	madison_aquarium	madison_feynman_pond	madison_rain_barrel	madison_riva_pond	taxonomy
+1	0.00065	0.0077	0.0068	0.01195	Candidatus Solibacter usitatus
+2	0.00032	0.01587	0.01176	0.02621	Luteitalea pratensis
+3	0.00161	0	0	0	Mycobacterium dioxanotrophicus
+4	0.00065	0	0	0	Candidatus Aquiluna sp. UB-MaderosW2red
+5	0.00032	0	0	0	Microbacterium sp. ABRD_28
+6	0.00016	0.00063	0	0	Tropheryma whipplei
+7	0.00032	0.00267	0	0.00116	Actinobacteria bacterium IMCC26256
+8	0.00032	0.00016	0.00261	0	Prevotella ruminicola
+9	0.00032	0	0	0	Alistipes finegoldii
+10	0.00032	0	0	0	Mucinivorans hirudinis
+11	0.00048	0.00126	0	0.01272	Flavisolibacter sp. 17J28-1
+12	0.01485	0.00157	0.01203	0.00193	Flavisolibacter tropicus
+13	0.00016	0.00094	0.00026	0.07363	Niabella soli
+14	0.00016	0.00141	0	0.00964	Pseudobacter ginsenosidimutans
+15	0.00065	0	0	0	Arcticibacterium luteifluviistationis
+16	0.00032	0	0	0.03392	Dyadobacter fermentans
+17	0.00581	0	0	0	Leadbetterella byssophila
+18	0.00032	0.00691	0.01307	0	Pseudarcicella sp. HME7025
+19	0.00888	0	0.00026	0	Runella sp. SP2
+20	0.0021	0.01775	0	0	Chryseolinea sp. KIS68-18
+21	0.02178	0	0	0	Cytophagales bacterium TFI 002
+22	0.00032	0	0	0	Flavobacterium album
+23	0.00742	0	0	0.00655	Flavobacterium columnare
+24	0.00048	0	0	0	Formosa sp. Hel3_A1_48
+25	0.00032	0	0	0.00116	Ornithobacterium rhinotracheale
+26	0.00242	0.02498	0	0	Haliscomenobacter hydrossis
+27	0.01646	0.00487	0	0	Mucilaginibacter mallensis
+28	0.00016	0.00031	0.00078	0	Candidatus Saccharibacteria bacterium YM_S32_TM7_50_20
+29	0.00032	0.00298	0	0.0054	Caldilinea aerophila
+30	0.00065	0.0011	0.00392	0	Synechococcus sp. PCC 7336
+31	0.00016	0	0	0	Natranaerobius thermophilus
+32	0.00016	0.00141	0.00549	0	Gemmatirosa kalamazoonesis
+33	0.00032	0.01351	0.00288	0	Nitrospira japonica
+34	0.00016	0.00079	0	0.00154	Pirellula staleyi
+35	0.00016	0	0	0.00039	Planctomycetes bacterium HG15A2
+36	0.00065	0	0	0	Planctomycetes bacterium Pan181
+37	0.00016	0.00031	0.00078	0.0027	Planctomycetes bacterium Pan265
+38	0.00016	0	0	0.00077	Planctomycetes bacterium Pla110
+39	0.00016	0	0	0	Planctomycetes bacterium Pla163
+40	0.00016	0.00267	0	0.01195	Planctomycetes bacterium Q31a
+41	0.00274	0.00079	0	0.00039	Planctomycetes bacterium V22
+42	0.00065	0.0011	0	0.00463	Phenylobacterium sp. HYN0004
+43	0.00016	0.00047	0.00157	0.00077	Phenylobacterium zucineum
+44	0.00533	0.00016	0.00078	0.00039	Candidatus Paracaedibacter acanthamoebae
+45	0.00032	0	0	0	alpha proteobacterium HIMB59
+46	0.00016	0.00047	0.00052	0.0054	Rhodopseudomonas palustris
+47	0.00016	0	0	0	Breoghania sp. L-A4
+48	0.00016	0	0	0	Microvirga sp. 17 mud 1-3
+49	0.00016	0	0	0.00193	Mesorhizobium sp. DCY119
+50	0.00016	0.00016	0	0	Candidatus Hodgkinia cicadicola
+51	0.00032	0	0	0.01234	Starkeya novella
+52	0.00016	0	0	0	Xanthobacter autotrophicus
+53	0.00016	0.00047	0	0	Pseudorhodobacter sp. S12M18
+54	0.00178	0.00033	0	0	Tabrizicola sp. K13M18
+55	0.00016	0.00236	0.01438	0.00193	Stella humosa
+56	0.00113	0.00016	0.00026	0.00116	Ferrovibrio sp. K5
+57	0.02372	0.00298	0.00418	0.01002	Nitrospirillum amazonense
+58	0.00032	0	0	0	Anaplasma marginale
+59	0.00048	0	0	0	Candidatus Midichloria mitochondrii
+60	0.00016	0	0	0	Rickettsia akari
+61	0.00016	0	0	0	Rickettsia endosymbiont of Ixodes scapularis
+62	0.00129	0	0	0	Rickettsia parkeri
+63	0.05519	0.0011	0	0	Novosphingobium ginsenosidimutans
+64	0.02259	0.00016	0	0	Novosphingobium sp. THN1
+65	0.00048	0	0	0	Sphingobium sp. SCG-1
+66	0.00016	0	0	0	Sphingomonas sp. YZ-8
+67	0.00016	0	0	0	Sphingopyxis sp. 113P3
+68	0.00016	0.00017	0.01125	0	Sphingopyxis sp. EG6
+69	0.00645	0.00833	0.00052	0.01773	Sphingopyxis sp. LPB0140
+70	0.00161	0.00086	0	0	Bordetella genomosp. 13
+71	0.11651	0.00079	0.00026	0	Polynucleobacter necessarius
+72	0.00442	0.00019	0	0	Acidovorax sp. KKS102
+73	0.00016	0	0	0	Alicycliphilus denitrificans
+74	0.00016	0	0	0	Comamonas kerstersii
+75	0.00114	0	0	0	Comamonas testosteroni
+76	0.00785	0	0	0	Hydrogenophaga sp. PBC
+77	0.00016	0.00016	0	0.00154	Hydrogenophaga sp. RAC07
+78	0.00743	0.0509	0.00065	0	Limnohabitans sp. 103DPR2
+79	0.55412	0.00016	0.00048	0.00116	Limnohabitans sp. 63ED37-2
+80	0.00032	0.00173	0	0	Rhodoferax saidenbachensis
+81	0.00032	0.00253	0.00499	0.02283	Undibacterium parvum
+82	0.00016	0.00173	0.00235	0	Leptothrix cholodnii
+83	0.00065	0.00016	0.00664	0	Methylibium petroleiphilum
+84	0.00274	0.00298	0.00052	0	Paucibacter sp. KCTC 42545
+85	0.00048	0.00031	0.00209	0.00039	Rhizobacter gummiphilus
+86	0.00016	0.0033	0	0.00231	Roseateles depolymerans
+87	0.00016	0.00141	0.00052	0	Rubrivivax gelatinosus
+88	0.00016	0.00016	0	0	Thiomonas sp. X19
+89	0.00032	0.00031	0	0	Burkholderiales bacterium JOSHI_001
+90	0.00161	0	0	0	Aquitalea sp. USM4
+91	0.00016	0.00047	0	0.00308	Neisseriaceae bacterium DSM 100970
+92	0.00081	0.00025	0	0	Thauera aromatica
+93	0.00016	0.00581	0.00209	0.00039	Haliangium ochraceum
+94	0.00113	0.00361	0.00026	0.01195	Labilithrix luteola
+95	0.0184	0	0	0	Salinimonas sp. HMF8227
+96	0.00183	0.00272	0	0	Rheinheimera sp. D18
+97	0.00065	0	0	0	Rheinheimera sp. LHK132
+98	0.00048	0.00079	0.00758	0	Woeseia oceani
+99	0.00048	0.00157	0	0	Coxiella burnetii
+100	0.00016	0.00754	0.00523	0	Candidatus Rickettsiella viridis
+101	0.00194	0.00126	0.00078	0	Legionella adelaidensis
+102	0.00024	0.0015	0	0	Legionella clemsonensis
+103	0.00512	0.00866	0	0	Legionella fallonii
+104	0.00016	0	0	0	Legionella jordanis
+105	0.00019	0.01749	0.01281	0	Legionella oakridgensis
+106	0.00074	0	0.00772	0	Legionella pneumophila
+107	0.00081	0	0	0	Ketobacter alkanivorans
+108	0.00016	0	0	0	Acinetobacter larvae
+109	0.00509	0	0	0	Pseudomonas mendocina
+110	0.00016	0	0	0	Pseudomonas pohangensis
+111	0.00032	0	0	0	gamma proteobacterium HdN1
+112	0.01049	0.00503	0	0	Ahniella affigens
+113	0.00034	0	0	0	Pseudoxanthomonas spadix
+114	0.00048	0.00031	0.00026	0.00424	Ereboglobus luteus
+115	0.00016	0.0011	0.00131	0.00231	Opitutus terrae
+116	0.00016	0.01304	0	0	Akkermansia muciniphila
+117	0.01791	0.00298	0.00157	0.00347	Verrucomicrobium sp. GAS474
+118	0.0142	0.00518	0.01046	0.00887	Verrucomicrobium spinosum
+119	0	0.00094	0.0149	0	Candidatus Koribacter versatilis
+120	0	0.00016	0	0	Chloracidobacterium thermophilum
+121	0	0.01524	0	0	Candidatus Planktophila lacus
+122	0	0.09362	0	0	Candidatus Planktophila limnetica
+123	0	0.00456	0	0	Candidatus Planktophila versatilis
+124	0	0.00016	0	0	Mycolicibacterium chitae
+125	0	0.00016	0	0	Mycolicibacterium hassiacum
+126	0	0.00141	0	0	Mycolicibacterium rhodesiae
+127	0	0.00047	0	0	Rhodococcus sp. X156
+128	0	0.00016	0	0	Frankia alni
+129	0	0.00031	0	0	Frankia casuarinae
+130	0	0.00031	0	0	Blastococcus saxobsidens
+131	0	0.00047	0	0.00039	Stackebrandtia nassauensis
+132	0	0.00016	0	0	Aurantimicrobium sp. MWH-Mo1
+133	0	0.00189	0	0	Cryobacterium sp. LW097
+134	0	0.00251	0	0	Rhodoluna lacicola
+135	0	0.00047	0	0.00308	Salinibacterium sp. CGMCC 1.16371
+136	0	0.00016	0	0.00154	Renibacterium salmoninarum
+137	0	0.00189	0	0	Xylanimonas cellulosilytica
+138	0	0.00047	0.00026	0	Actinopolymorpha singaporensis
+139	0	0.00424	0	0	Auraticoccus monumenti
+140	0	0.00126	0.00993	0.00039	Fimbriimonas ginsengisoli
+141	0	0.00016	0	0	Armatimonadetes bacterium Uphvl-Ar2
+142	0	0.00204	0.00052	0.00116	Bacteroides coprosuis
+143	0	0.00079	0	0	Bacteroidales bacterium CF
+144	0	0.08985	0.00052	0.01465	Arachidicoccus ginsenosidivorans
+145	0	0.00031	0	0	Filimonas lacunae
+146	0	0.00518	0.01307	0.00154	Panacibacter ginsenosidivorans
+147	0	0.00031	0.00157	0	Pseudoflavitalea sp. 5GH32-13
+148	0	0.00047	0.00314	0.0027	Cytophaga hutchinsonii
+149	0	0.00079	0	0.00039	Runella sp. HYN0085
+150	0	0.0011	0	0	Flammeovirgaceae bacterium 311
+151	0	0.00047	0	0	Hymenobacter sp. sh-6
+152	0	0.00251	0.01569	0	Owenweeksia hongkongensis
+153	0	0.00016	0	0	Chryseobacterium carnipullorum
+154	0	0.00016	0	0	Flavobacterium indicum
+155	0	0.00031	0	0.00039	Flavobacterium sp. GS13
+156	0	0.00031	0	0	Psychroflexus torquis
+157	0	0.00189	0	0	Robiginitalea biformata
+158	0	0.00644	0	0	Saprospira grandis
+159	0	0.00157	0	0	Mucilaginibacter ginsenosidivorans
+160	0	0.00016	0	0	Pedobacter cryoconitis
+161	0	0.00016	0.00052	0	Solitalea canadensis
+162	0	0.00031	0	0	Candidatus Saccharimonas aalborgensis
+163	0	0.00534	0.01438	0.00039	Prosthecochloris sp. CIB 2401
+164	0	0.00031	0.00026	0	Anaerolinea thermophila
+165	0	0.00298	0	0	Pelolinea submarina
+166	0	0.00016	0	0	Candidatus Promineofilum breve
+167	0	0.00016	0	0	Dolichospermum compactum
+168	0	0.00047	0	0	Raphidiopsis curvata
+169	0	0.00456	0	0.09252	Scytonema sp. HK-05
+170	0	0.00031	0	0	Moorea producens
+171	0	0.00016	0	0	Stanieria sp. NIES-3757
+172	0	0.00079	0	0	Leptolyngbya boryana
+173	0	0.00016	0	0	Pseudanabaena sp. PCC 7367
+174	0	0.00016	0	0.00039	Synechococcus sp. JA-3-3Ab
+175	0	0.00016	0.00026	0	Synechococcus sp. PCC 7502
+176	0	0.00031	0	0	Elusimicrobium minutum
+177	0	0.0022	0	0	Endomicrobium proavitum
+178	0	0.00016	0	0	Bacillus thermoamylovorans
+179	0	0.00021	0	0	Staphylococcus aureus
+180	0	0.00031	0	0	Clostridium argentinense
+181	0	0.00043	0	0	Butyrivibrio fibrisolvens
+182	0	0.00016	0.00026	0	Desulfitobacterium dehalogenans
+183	0	0.00079	0	0	Desulfotomaculum nigrificans
+184	0	0.0011	0	0	Tepidanaerobacter acetatoxydans
+185	0	0.00016	0	0	Mahella australiensis
+186	0	0.00063	0.00601	0	Gemmatimonas phototrophica
+187	0	0.00503	0.00026	0	Phycisphaerae bacterium RAS2
+188	0	0.00251	0.00105	0.00116	Gemmata obscuriglobus
+189	0	0.0033	0.00052	0.00116	Gemmata sp. SH-PL17
+190	0	0.00094	0	0.00154	Paludisphaera borealis
+191	0	0.00628	0.0068	0	Singulisphaera acidiphila
+192	0	0.0011	0	0	Fuerstia marisgermanicae
+193	0	0.00063	0	0	Pirellula sp. SH-Sr6A
+194	0	0.00079	0	0	Planctomyces sp. SH-PL14
+195	0	0.00471	0	0.00116	Planctomycetes bacterium CA12
+196	0	0.00063	0	0	Planctomycetes bacterium ElP
+197	0	0.00361	0.00418	0.00347	Planctomycetes bacterium ETA_A1
+198	0	0.00515	0.00209	0.0062	Planctomycetes bacterium ETA_A8
+199	0	0.00016	0	0	Planctomycetes bacterium K23_9
+200	0	0.00063	0	0.00039	Planctomycetes bacterium KS4
+201	0	0.00016	0	0	Planctomycetes bacterium MalM25
+202	0	0.00756	0	0	Planctomycetes bacterium Pan161
+203	0	0.01367	0.08078	0.04626	Planctomycetes bacterium Pan189
+204	0	0.0011	0	0	Planctomycetes bacterium Pan216
+205	0	0.04226	0.00026	0.01928	Planctomycetes bacterium Pan44
+206	0	0.0033	0.00444	0.05705	Planctomycetes bacterium Pan97
+207	0	0.00031	0	0	Planctomycetes bacterium Pla175
+208	0	0.00723	0	0.01655	Planctomycetes bacterium Pla85_3_4
+209	0	0.00361	0	0.00501	Planctomycetes bacterium Poly30
+210	0	0.0055	0	0.00617	Planctomycetes bacterium Spb1
+211	0	0.00016	0	0.00039	Brevundimonas sp. M20
+212	0	0.0011	0	0	Caulobacter henricii
+213	0	0.00236	0.00261	0	Caulobacteraceae bacterium OTSz_A_272
+214	0	0.00031	0	0	Emcibacter sp. MEBiC09520
+215	0	0.00063	0	0	Candidatus Nucleicultrix amoebiphila
+216	0	0.00016	0	0	Candidatus Pelagibacter sp. RS40
+217	0	0.00173	0	0.00771	Beijerinckia indica
+218	0	0.00801	0	0	Methylocella silvestris
+219	0	0.00864	0.00183	0.00116	Methylovirgula ligni
+220	0	0.00016	0	0	Beijerinckiaceae bacterium
+221	0	0.00016	0.00235	0	Beijerinckiaceae bacterium RH AL1
+222	0	0.00031	0	0	Bosea sp. RAC05
+223	0	0.00126	0.0034	0.00424	Variibacter gotjawalensis
+224	0	0.00267	0.00026	0.01311	Devosia sp. A16
+225	0	0.00126	0.00209	0.00039	Candidatus Filomicrobium marinum
+226	0	0.00016	0.0034	0	Hyphomicrobium denitrificans
+227	0	0.0022	0.00183	0.00308	Hyphomicrobium nitrativorans
+228	0	0.0011	0	0.04163	Hyphomicrobium sp. MC1
+229	0	0.01367	0.00523	0.0347	Rhodomicrobium vannielii
+230	0	0.00267	0.00314	0.01696	Rhodoplanes sp. Z2-YC6860
+231	0	0.00503	0	0	Methylosinus trichosporium
+232	0	0.00079	0	0.02699	Pleomorphomonas sp. SM30
+233	0	0.00016	0	0.00039	Chelativorans sp. BNC1
+234	0	0.00393	0	0.00386	Candidatus Liberibacter africanus
+235	0	0.00016	0	0	Sinorhizobium meliloti
+236	0	0.00112	0.00115	0.0027	Anderseniella sp. Alg231-50
+237	0	0.0011	0	0	Paracoccus sp. 2251
+238	0	0.00173	0.00314	0	Rhodobacter blasticus
+239	0	0.00094	0	0	Rhodobacter capsulatus
+240	0	0.00126	0	0	Ruegeria sp. AD91A
+241	0	0.00078	0	0	Salipiger profundus
+242	0	0.00236	0.00026	0	Acidibrevibacterium fodinaquatile
+243	0	0.0011	0	0.00424	Commensalibacter sp. AMU001
+244	0	0.00063	0.03346	0.00231	Granulibacter bethesdensis
+245	0	0.00079	0.00262	0.00229	Komagataeibacter hansenii
+246	0	0.00151	0	0	Roseomonas sp. FDAARGOS_362
+247	0	0.00079	0	0	Acetobacteraceae bacterium
+248	0	0.00074	0.00497	0	Azospirillum brasilense
+249	0	0.0013	0	0	Azospirillum lipoferum
+250	0	0.00016	0.00261	0	Magnetospirillum sp. ME-1
+251	0	2.00E-04	0	0	Tistrella mobilis
+252	0	0.00031	0	0	Wolbachia endosymbiont of Brugia malayi
+253	0	0.00141	0.00209	0	Candidatus Phycorickettsia trachydisci
+254	0	0.00157	0	0	Rickettsia peacockii
+255	0	0.00079	0.00204	0.00154	Altererythrobacter sp. B11
+256	0	0.00031	0	0.00039	Novosphingobium sp. ABRDHK2
+257	0	0.00016	0.00061	0.00039	Novosphingobium tardaugens
+258	0	0.00157	0	0	Sphingobium cloacae
+259	0	0.00016	0.00197	0.00116	Sphingobium sp. SYK-6
+260	0	0.00079	0.00087	0.00078	Sphingobium sp. YBL2
+261	0	0.00016	0	0.00154	Sphingomonas indica
+262	0	0.00047	0	0.00039	Sphingomonas sp. AAP5
+263	0	0.00016	0.00026	0	Sphingomonas wittichii
+264	0	0.00177	0	0	Sphingopyxis macrogoltabida
+265	0	0.00016	0	0	Micavibrio aeruginosavorus
+266	0	0.00016	0	0	Phreatobacter sp. NMCR1094
+267	0	0.02733	0	0.00077	Castellaniella defragrans
+268	0	0.00063	0	0.00039	Paenalcaligenes hominis
+269	0	0.00094	0.00261	0.0027	Pigmentiphaga sp. H8
+270	0	0.00083	0	0.00039	Pusillimonas sp. T7-7
+271	0	0.00801	0.00412	0	Burkholderia pseudomallei
+272	0	0.00205	0	0	Cupriavidus gilardii
+273	0	0.00047	0	0	Lautropia mirabilis
+274	0	0.00016	0.00052	0	Pandoraea thiooxydans
+275	0	0.00031	0.00105	0	Polynucleobacter acidiphobus
+276	0	0.00228	0	0	Acidovorax carolinensis
+277	0	0.00036	0	0	Acidovorax sp. RAC01
+278	0	0.00126	0	0	Candidatus Symbiobacter mobilis
+279	0	0.00016	0.00131	0	Curvibacter sp. AEP1-3
+280	0	0.00016	0	0	Melaminivora sp. SC2-7
+281	0	0.00126	0.00052	0	Ottowia oryzae
+282	0	0.00031	0	0	Ottowia sp. oral taxon 894
+283	0	0.00032	0.00105	0	Polaromonas naphthalenivorans
+284	0	0.0022	0.00131	0.00039	Polaromonas sp. SP1
+285	0	0.00566	0.00654	0.0027	Ramlibacter tataouinensis
+286	0	0.00063	0.00052	0.00077	Rhodoferax ferrireducens
+287	0	0.00063	0.00102	0	Rhodoferax koreense
+288	0	0.00173	0	0	Rhodoferax sp. CHu59-6-5
+289	0	0.00188	0	0	Rhodoferax sp. Gr-4
+290	0	0.00031	0	0	Variovorax sp. HW608
+291	0	0.00157	0.00131	0	Variovorax sp. PMC12
+292	0	0.00189	0	0	Verminephrobacter eiseniae
+293	0	0.00236	0.00444	0.03431	Janthinobacterium sp. 17J80-10
+294	0	0.00063	0.00033	0	Massilia armeniaca
+295	0	0.00016	0.00052	0	Noviherbaspirillum sp. UKPF54
+296	0	0.00033	0	0	Aquabacterium olei
+297	0	0.00016	0.00157	0.00231	Methylibium sp. Pch-M
+298	0	0.00016	0	0	Mitsuaria sp. 7
+299	0	0.00424	0.00314	0.00193	Burkholderiales bacterium GJ-E10
+300	0	0.00046	0	0	Laribacter hongkongensis
+301	0	0.00487	0.0115	0	Sulfuricella denitrificans
+302	0	0.00204	0	0.00116	Candidatus Methylopumilus turicensis
+303	0	0.00063	0	0	Methylotenera mobilis
+304	0	0.01005	0.00654	0.00655	Methylotenera versatilis
+305	0	0.00016	0.00288	0	Nitrosomonas sp. Is79A3
+306	0	0.00121	0	0.0027	Denitratisoma sp. DHT3
+307	0	0.00251	0.00052	0.00655	Sulfuritalea hydrogenivorans
+308	0	0.00031	0	0	Dechloromonas sp. HYN0024
+309	0	0.00247	0.01156	0.00039	Azoarcus sp. SY39
+310	0	0.00126	0	0	Betaproteobacteria bacterium GR16-43
+311	0	0.00016	0	0	Desulfobacterium autotrophicum
+312	0	0.00063	0	0	Desulfobacula toluolica
+313	0	0.00047	0	0	Desulfococcus multivorans
+314	0	0.00031	0	0	Desulfococcus oleovorans
+315	0	0.00031	0	0	Desulfotalea psychrophila
+316	0	0.00031	0	0	Candidatus Desulfovibrio trichonymphae
+317	0	0.00031	0	0	Lawsonia intracellularis
+318	0	0.00094	0.01229	0	Geobacter metallireducens
+319	0	0.00031	0	0	Geobacter pickeringii
+320	0	0.00016	0	0	Geobacter sp. DSM 9736
+321	0	0.00732	0	0	Geobacter sulfurreducens
+322	0	0.00063	0	0	Stigmatella aurantiaca
+323	0	0.00016	0	0	Chondromyces crocatus
+324	0	0.00974	0	0	Pajaroellobacter abortibovis
+325	0	0.0011	0.00052	0	Sorangium cellulosum
+326	0	0.00251	0	0.00154	Sandaracinus amylolyticus
+327	0	0.00047	0	0	Desulfobacca acetoxidans
+328	0	0.00047	0	0	Desulfomonile tiedjei
+329	0	0.00016	0	0	Acidiferrobacter sp. SPIII_3
+330	0	0.00016	0	0	Shewanella benthica
+331	0	0.00079	0	0.00077	Cellvibrio sp. PSBB023
+332	0	0.00264	0	0	Congregibacter litoralis
+333	0	0.00141	0	0	Halioglobus japonicus
+334	0	0.00283	0	0	Halioglobus pacificus
+335	0	0.00048	0	0	Zhongshania aliphaticivorans
+336	0	0.00157	0	0	Candidatus Thiodictyon syntrophicum
+337	0	0.00016	0.00052	0	Acidihalobacter ferrooxidans
+338	0	0.0011	0	0	Thiohalobacter thiocyanaticus
+339	0	0.00146	0	0	Escherichia coli
+340	0	0.00016	0	0	Arsenophonus endosymbiont of Aleurodicus dispersus
+341	0	0.00016	0	0	Candidatus Arsenophonus lipoptenae
+342	0	0.00037	0	0	Serratia marcescens
+343	0	0.00016	0	0	Yersinia pestis
+344	0	0.00094	0.00183	0	Immundisolibacter cernigliae
+345	0	0.00047	0	0	Coxiella endosymbiont of Amblyomma americanum
+346	0	0.00096	0	0	Legionella geestiana
+347	0	0.00051	0	0	Legionella hackeliae
+348	0	0.00236	0.00183	0.00039	Legionella israelensis
+349	0	0.00126	0	0.00617	Legionella lansingensis
+350	0	0.01565	0.00052	0	Legionella waltersii
+351	0	0.01854	0	0.00039	Solimonas sp. K1W22B-7
+352	0	0.00501	0.24667	0.02045	Steroidobacter denitrificans
+353	0	0.00031	0.00026	0	Candidatus Carsonella ruddii
+354	0	0.00094	0	0	Bacterioplanes sanyensis
+355	0	0.00613	0	0	Actinobacillus succinogenes
+356	0	0.0033	0	0	Moraxella bovis
+357	0	0.00016	0	0	Psychrobacter urativorans
+358	0	0.00016	0	0	Pseudomonas sp. CC6-YY-74
+359	0	0.00031	0	0	Pseudomonas sp. K2W31S-8
+360	0	0.02702	0	0.00849	Pseudomonas sp. MT-1
+361	0	0.00016	0	0	Thiolapillus brandeum
+362	0	0.00016	0	0	Candidatus Baumannia cicadellinicola
+363	0	0.00675	0	0	Arenimonas daejeonensis
+364	0	0.00016	0	0	Lysobacter sp. TY2-98
+365	0	0.00094	0.00026	0.00077	Pseudoxanthomonas suwonensis
+366	0	0.00126	0.00026	0	Xylella taiwanensis
+367	0	0.0011	0	0	Halobacteriovorax marinus
+368	0	0.00298	0.00235	0.00039	Bdellovibrio bacteriovorus
+369	0	0.00079	0.00889	0	Bdellovibrio sp. NC01
+370	0	0.00047	0	0	Bdellovibrio sp. ZAP7
+371	0	0.00157	0	0	Silvanigrellales bacterium RF1110005
+372	0	0.00031	0	0	Turneriella parva
+373	0	0.00126	0	0	Candidatus Babela massiliensis
+374	0	0.00204	0.00026	0.00732	Candidatus Dependentiae bacterium (ex Spumella elongata CCAP 955/1)
+375	0	0.00016	0	0.00617	Nibricoccus aquaticus
+376	0	0.00031	0.00052	0.00116	Opitutus sp. GAS368
+377	0	0.00754	0	0.00501	Opitutaceae bacterium TAV5
+378	0	0.00016	0	0	Coraliomargarita akajimensis
+379	0	0.00031	0	0.00116	Candidatus Xiphinematobacter sp. Idaho Grape
+380	0	0.00031	0	0	Akkermansia glycaniphila
+381	0	0	0.00052	0	Euzebya sp. DY32-46
+382	0	0	0.00026	0.00039	Baekduia soli
+383	0	0	0.00026	0	Chthonomonas calidirosea
+384	0	0	0.00052	0	Flavobacterium crassostreae
+385	0	0	0.02039	0	Flavobacterium psychrophilum
+386	0	0	0.00026	0	Flavobacterium sp. GS03
+387	0	0	0.00078	0	Sphingobacterium psychroaquaticum
+388	0	0	0.00052	0	Sphingobacterium sp. CZ-2
+389	0	0	0.00052	0	Oscillatoria nigro-viridis
+390	0	0	0.01647	0	Prochlorococcus marinus
+391	0	0	0.00026	0	Staphylococcus condimenti
+392	0	0	0.00026	0	Syntrophomonas wolfei
+393	0	0	0.00026	0	Gemmatimonas aurantiaca
+394	0	0	0.0102	0	Nitrospira defluvii
+395	0	0	0.00157	0.00655	Caulobacter mirabilis
+396	0	0	0.00026	0	Blastochloris sp. GI
+397	0	0	0.00026	0.0027	Devosia sp. I507
+398	0	0	0.00078	0	Methylocystis bryophila
+399	0	0	0.00026	0	Neorhizobium galegae
+400	0	0	0.00026	0.02853	Pseudolabrys sp. FHR47
+401	0	0	0.00026	0	Rhodobacteraceae bacterium QY30
+402	0	0	0.00026	0	Azospirillum sp. TSH100
+403	0	0	0.00052	0	Ehrlichia ruminantium
+404	0	0	0.00026	0	Erythrobacter sp. HKB08
+405	0	0	0.00026	0.00077	Sphingomonas sp. LK11
+406	0	0	0.01392	0	Bordetella sp. HZ20
+407	0	0	0.00033	0	Burkholderia mallei
+408	0	0	0.01525	0	Cupriavidus taiwanensis
+409	0	0	0.00026	0.00231	Mycoavidus cysteinexigens
+410	0	0	0.01856	0	Paraburkholderia caledonica
+411	0	0	0.00026	0	Paraburkholderia sp. DCR13
+412	0	0	0.00026	0.00154	Hylemonella gracilis
+413	0	0	0.00045	0	Massilia sp. YMA4
+414	0	0	0.00052	0	Massilia violaceinigra
+415	0	0	0.00732	0	Nitrosospira lacus
+416	0	0	0.00078	0	Sulfurifustis variabilis
+417	0	0	0.00026	0	Legionella longbeachae
+418	0	0	0.00235	0	Marinobacterium aestuarii
+419	0	0	0.00026	0	Acinetobacter sp. LoGeW2-3
+420	0	0	0.00052	0	Acinetobacter sp. TTH0-4
+421	0	0	0.1132	0	Pseudomonas sp. SWI6
+422	0	0	0.00052	0.00039	Bdellovibrio exovorus
+423	0	0	0	0.00039	Terriglobus saanensis
+424	0	0	0	0.00077	Lysinimonas sp. 2DFWR-13
+425	0	0	0	0.00039	Microbacterium aurum
+426	0	0	0	0.00039	Microbacterium sp. 10M-3C3
+427	0	0	0	0.00154	Aeromicrobium erythreum
+428	0	0	0	0.00039	Cutibacterium acnes
+429	0	0	0	0.00154	Thermobispora bispora
+430	0	0	0	0.00039	Chitinophaga caeni
+431	0	0	0	0.00039	Niabella ginsenosidivorans
+432	0	0	0	0.00077	Algoriphagus machipongonensis
+433	0	0	0	0.00077	Spirosoma sp. KCTC 42546
+434	0	0	0	0.00039	Flavobacterium kingsejongi
+435	0	0	0	0.00231	Zunongwangia profunda
+436	0	0	0	0.00154	Mucilaginibacter gotjawali
+437	0	0	0	0.00039	Fusobacterium nucleatum
+438	0	0	0	0.00463	endosymbiont of Acanthamoeba sp. UWC8
+439	0	0	0	0.00578	Bradyrhizobium erythrophlei
+440	0	0	0	0.00308	Nitrobacter hamburgensis
+441	0	0	0	0.00077	Blastochloris viridis
+442	0	0	0	0.00077	Mesorhizobium sp. 8
+443	0	0	0	0.00039	Mesorhizobium sp. Pch-S
+444	0	0	0	0.00154	Rhodobiaceae bacterium
+445	0	0	0	0.00039	Pseudorhodoplanes sinuspersici
+446	0	0	0	0.00308	Azorhizobium caulinodans
+447	0	0	0	0.00039	Pseudolabrys taiwanensis
+448	0	0	0	0.00039	Tateyamaria omphalii
+449	0	0	0	0.00041	Neoasaia chiangmaiensis
+450	0	0	0	0.00039	Rickettsia sibirica
+451	0	0	0	0.00077	Sphingomonas sp. HKS19
+452	0	0	0	0.00466	Sphingomonas sp. JJ-A5
+453	0	0	0	0.00152	Sphingomonas sp. MM-1
+454	0	0	0	0.00039	Massilia sp. NR 4-1
+455	0	0	0	0.00655	Massilia sp. WG5
+456	0	0	0	0.00256	Salmonella enterica
+457	0	0	0	0.00039	Legionella spiritensis
+458	0	0	0	0.00039	Pseudomonas psychrotolerans
+459	0	0	0	0.00039	endosymbiont of Sipalinus gigas
+460	0	0	0	0.00039	endosymbiont of unidentified scaly snail isolate Monju
+461	0	0	0	0.00154	Mariprofundus aestuarium
+462	0	0	0	0.00077	Candidatus Phytoplasma australiense
