@@ -28,8 +28,8 @@
 - cutadapt v1.16
 
 &nbsp; 
-&nbsp; 
-&nbsp; 
+
+---
 
 # Zymo Mock Community Analysis 
 
@@ -650,7 +650,9 @@ Staphylococcus aureus | 15.5 | 13.8
 Other species	| 0 | 2.6
 
 &nbsp; 
-&nbsp; 
+
+---
+
 &nbsp; 
 
 # ATCC Mock Human Communities Analysis 
@@ -1144,9 +1146,10 @@ Of the six species in the sample, all six could be detected to species level. Of
 
 
 &nbsp; 
-&nbsp; 
-&nbsp; 
 
+---
+
+&nbsp; 
 
 
 # Madison Water Samples Analysis
@@ -1513,3 +1516,5 @@ ggsave(filename=newpath,width=3,height=8,units="cm",dpi=600)
 
 ```
 <img src="figures/madison_water_combined_barchart.png" width="500">
+
+&nbsp; 
