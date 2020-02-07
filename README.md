@@ -198,7 +198,6 @@ samtools view -F 4 bsubtilis.sam | cut -f3 | sort | uniq -c > bsubtilis_hits_cou
     
 ```
 
-
 | **16S Gene Copy** | **Expected contig %** | **Mapped contig %** |
 |-------------------|-----------------------|---------------------|
 Bacillus_subtilis_16S_1 | 50 | 43.3
@@ -347,6 +346,7 @@ Staphylococcus aureus | 15.5 | 15.2
 The species ratios are as expected. It does not appear that short read methodologies significanlty skew the relative abundances of the species examined.
 
 To compare read accuracies with the LoopSeq contigs, extract the merged reads that mapped to *B. subtilis* and map the reads to the five non-redundant *B. subtilis* 16S gene copy references. 
+
 ```
 samtools view zymo-v3v4.sam | cut -f1,3 | awk -F "\t" '{ if($2 == "BS.pilon.polished.v3.ST170922") { print $1}}' > bsubtilis-v3v4_reads_list
 seqtk subseq zymo-v3v4.noprimers.fastq bsubtilis-v3v4_reads_list > bsubtilis-v3v4_reads.fastq
@@ -449,6 +449,8 @@ Pseudomonas aeruginosa | 4.2 | 4.2
 Salmonella enterica | 10.4 | 11.2
 Staphylococcus aureus | 15.5 | 14.0	
 Other species | 0 | 0.4
+
+&nbsp; 
 
 ```
 #R
@@ -659,8 +661,6 @@ Other species	| 0 | 2.6
 &nbsp; 
 
 ---
-
-&nbsp; 
 
 # ATCC Mock Human Communities Analysis 
 
@@ -901,6 +901,7 @@ samtools view -F 4 atcc_oral.sam | cut -f3 | sort | uniq -c
    2485 streptococcus_mitis_atcc_49456
    2166 veillonella_parvula_atcc_17745
 ```
+
 |Species                                  |Expected contig %|Mapped contig %|
 |-----------------------------------------|-----------------|---------------|
 |Schaalia odontolytica                    |11.5             |3.9            |
@@ -1155,9 +1156,6 @@ Of the six species in the sample, all six could be detected to species level. Of
 &nbsp; 
 
 ---
-
-&nbsp; 
-
 
 # Madison Water Samples Analysis
 
