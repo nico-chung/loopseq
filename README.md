@@ -1,10 +1,10 @@
 # Analysis for LoopSeq 16S manuscript
 
-### [Zymo Mock Community Analysis](https://nico-chung.github.io/loopseq/#zymo-mock-community-analysis)
+### [1. Zymo Mock Community Analysis](https://github.com/nico-chung/loopseq/blob/master/README.md#zymo-mock-community-analysis)
 
-### [ATCC Mock Human Communities Analysis](https://nico-chung.github.io/loopseq/#atcc-mock-human-communities-analysis-1)
+### [2. ATCC Mock Human Communities Analysis](https://github.com/nico-chung/loopseq#atcc-mock-human-communities-analysis)
 
-### [Madison Water Samples Analysis](https://nico-chung.github.io/loopseq/#madison-water-samples-analysis-1)
+### [3. Madison Water Samples Analysis](https://github.com/nico-chung/loopseq#madison-water-samples-analysis)
 
 ### Computing Environment 
 
@@ -26,7 +26,7 @@
 - cutadapt v1.16
 
 
-# 1. Zymo Mock Community Analysis 
+# Zymo Mock Community Analysis 
 
 The Zymo mock community was analyzed using three methods:
 - [Mapping LoopSeq 16S contigs and Illumina V3V4 short reads to provided references](https://github.com/nico-chung/loopseq/blob/master/zymo.md#mapping-to-provided-references)
