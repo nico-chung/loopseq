@@ -6,6 +6,8 @@
 
 ### [Madison Water Samples Analysis](https://github.com/nico-chung/loopseq#madison-water-samples-analysis)
 
+&nbsp; 
+
 ### Computing Environment 
 
 #### R 
@@ -25,6 +27,9 @@
 - FLASH v1.2.11
 - cutadapt v1.16
 
+&nbsp; 
+&nbsp; 
+&nbsp; 
 
 # Zymo Mock Community Analysis 
 
