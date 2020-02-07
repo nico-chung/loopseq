@@ -1,10 +1,10 @@
 # Analysis for LoopSeq 16S manuscript
 
-### [Zymo Mock Community Analysis](https://nico-chung.github.io/loopseq_paper/#zymo-mock-community-analysis)
+### [Zymo Mock Community Analysis](https://nico-chung.github.io/loopseq/#zymo-mock-community-analysis)
 
-### [ATCC Mock Human Communities Analysis](https://nico-chung.github.io/loopseq_paper/#atcc-mock-human-communities-analysis-1)
+### [ATCC Mock Human Communities Analysis](https://nico-chung.github.io/loopseq/#atcc-mock-human-communities-analysis-1)
 
-### [Madison Water Samples Analysis](https://nico-chung.github.io/loopseq_paper/#madison-water-samples-analysis-1)
+### [Madison Water Samples Analysis](https://nico-chung.github.io/loopseq/#madison-water-samples-analysis-1)
 
 ### Computing Environment 
 
@@ -29,9 +29,9 @@
 # 1. Zymo Mock Community Analysis 
 
 The Zymo mock community was analyzed using three methods:
-- [Mapping LoopSeq 16S contigs and Illumina V3V4 short reads to provided references](https://github.com/nico-chung/loopseq_paper/blob/master/zymo.md#mapping-to-provided-references)
-- [Mapping LoopSeq 16S contigs to NCBI RefSeq references](https://github.com/nico-chung/loopseq_paper/blob/master/zymo.md#mapping-to-ncbi-refseq-references)
-- [Classifying LoopSeq 16S contigs with LCA classifier](https://github.com/nico-chung/loopseq_paper/blob/master/zymo.md#classification-with-lca-classifier)
+- [Mapping LoopSeq 16S contigs and Illumina V3V4 short reads to provided references](https://github.com/nico-chung/loopseq/blob/master/zymo.md#mapping-to-provided-references)
+- [Mapping LoopSeq 16S contigs to NCBI RefSeq references](https://github.com/nico-chung/loopseq/blob/master/zymo.md#mapping-to-ncbi-refseq-references)
+- [Classifying LoopSeq 16S contigs with LCA classifier](https://github.com/nico-chung/loopseq/blob/master/zymo.md#classification-with-lca-classifier)
 
 
 ## Data Preparation
@@ -56,7 +56,7 @@ Staphylococcus aureus | 6 |	15.5
 
 Load fastq file containing raw contigs as downloaded from the Loop Genomics cloud platform.
 
-[Raw contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/zymo.rar)
+[Raw contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/zymo.rar)
 
 ```
 #R
@@ -92,7 +92,7 @@ summary(nchar(getSequences(zymo_noprimers)))
 zymo_noprimers <- file.path("zymo_noprimers.fastq")
 hist(nchar(getSequences(zymo_noprimers)), 10) 
 ```
-[Filtered contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/zymo_noprimers.rar)
+[Filtered contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/zymo_noprimers.rar)
 
 ![](figures/zymo_noprimers.png) 
 
@@ -1164,7 +1164,7 @@ The 16S + 18S kit was used but only the 16S contigs are examined.
 
 Load fastq file containing raw contigs as downloaded from the Loop Genomics cloud platform.
 
-[Raw contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_aquarium.rar)
+[Raw contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/madison_aquarium.rar)
 
 ```
 #R
@@ -1203,14 +1203,14 @@ summary(nchar(getSequences(madison_aquarium_noprimers_lengthfilter)))
    1402    1451    1453    1447    1455    1544 
 
 ```
-[Filtered contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_aquarium_noprimers_lengthfilter.rar)
+[Filtered contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/madison_aquarium_noprimers_lengthfilter.rar)
 
 
 #### FeynmanPond
 
 Load fastq file containing raw contigs as downloaded from the Loop Genomics cloud platform.
 
-[Raw contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_feynmanpond.rar)
+[Raw contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/madison_feynmanpond.rar)
 
 ```
 #R
@@ -1239,14 +1239,14 @@ summary(nchar(getSequences(madison_feynman_pond_noprimers)))
    1376    1434    1446    1442    1457    1522 
 
 ```
-[Filtered contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_feynman_pond_noprimers.rar)
+[Filtered contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/madison_feynman_pond_noprimers.rar)
 
 
 #### RainBarrel
 
 Load fastq file containing raw contigs as downloaded from the Loop Genomics cloud platform.
 
-[Raw contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_rain_barrel.rar)
+[Raw contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/madison_rain_barrel.rar)
 
 ```
 #R
@@ -1275,13 +1275,13 @@ summary(nchar(getSequences(madison_rain_barrel_noprimers)))
    1375    1436    1446    1443    1456    1496 
 
 ```
-[Filtered contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_rain_barrel_noprimers.rar)
+[Filtered contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/madison_rain_barrel_noprimers.rar)
 
 #### RivaPond
 
 Load fastq file containing raw contigs as downloaded from the Loop Genomics cloud platform.
 
-[Raw contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_riva_pond.rar)
+[Raw contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/madison_riva_pond.rar)
 
 ```
 #R
@@ -1318,7 +1318,7 @@ Read in 3808, output 3564 (93.6%) filtered sequences.
 madison_riva_pond_noprimers_lengthfilter <- file.path("madison_riva_pond_noprimers_lengthfilter.fastq")
 summary(nchar(getSequences(madison_riva_pond_noprimers_lengthfilter)))
 ```
-[Filtered contigs fastq file](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_riva_pond_noprimers_lengthfilter.rar)
+[Filtered contigs fastq file](https://github.com/nico-chung/loopseq/raw/master/data/madison_riva_pond_noprimers_lengthfilter.rar)
 
 
 
@@ -1334,7 +1334,7 @@ Loading database information... done.
   6428 sequences classified (100.00%)
   0 sequences unclassified (0.00%)
 ```
-[Kraken 2 report](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_aquarium.kreport)
+[Kraken 2 report](https://github.com/nico-chung/loopseq/raw/master/data/madison_aquarium.kreport)
 ```
 bracken -d Kraken2/standard_DB -i madison_aquarium.kreport -o madison_aquarium.bracken -r 1500 -l S -t 1
  >> Checking for Valid Options...
@@ -1357,7 +1357,7 @@ PROGRAM END TIME: 12-31-2019 05:36:31
   Bracken complete.
 
 ```
-[Bracken report](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_aquarium.bracken)
+[Bracken report](https://github.com/nico-chung/loopseq/raw/master/data/madison_aquarium.bracken)
 
 
 #### FeynmanPond
@@ -1368,7 +1368,7 @@ Loading database information... done.
   8251 sequences classified (100.00%)
   0 sequences unclassified (0.00%)
 ```
-[Kraken 2 report](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_feynman_pond.kreport)
+[Kraken 2 report](https://github.com/nico-chung/loopseq/raw/master/data/madison_feynman_pond.kreport)
 ```
 bracken -d Kraken2/standard_DB -i madison_feynman_pond.kreport -o madison_feynman_pond.bracken -r 1500 -l S -t 1
  >> Checking for Valid Options...
@@ -1390,7 +1390,7 @@ BRACKEN OUTPUT PRODUCED: madison_feynman_pond.bracken
 PROGRAM END TIME: 12-31-2019 05:45:10
   Bracken complete.
 ```
-[Bracken report](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_feynman_pond.bracken)
+[Bracken report](https://github.com/nico-chung/loopseq/raw/master/data/madison_feynman_pond.bracken)
 
 
 #### RainBarrel
@@ -1401,7 +1401,7 @@ Loading database information... done.
   4673 sequences classified (100.00%)
   0 sequences unclassified (0.00%)
 ```
-[Kraken 2 report](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_rain_barrel.kreport)
+[Kraken 2 report](https://github.com/nico-chung/loopseq/raw/master/data/madison_rain_barrel.kreport)
 ```
 bracken -d Kraken2/standard_DB -i madison_rain_barrel.kreport -o madison_rain_barrel.bracken -r 1500 -l S -t 1
  >> Checking for Valid Options...
@@ -1424,7 +1424,7 @@ PROGRAM END TIME: 12-31-2019 06:28:32
   Bracken complete.
 
 ```
-[Bracken report](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_rain_barrel.bracken)
+[Bracken report](https://github.com/nico-chung/loopseq/raw/master/data/madison_rain_barrel.bracken)
 
 #### RivaPond
 ```
@@ -1434,7 +1434,7 @@ Loading database information... done.
   3564 sequences classified (100.00%)
   0 sequences unclassified (0.00%)
 ```
-[Kraken 2 report](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_riva_pond.kreport)
+[Kraken 2 report](https://github.com/nico-chung/loopseq/raw/master/data/madison_riva_pond.kreport)
 ```
 bracken -d Kraken2/standard_DB -i madison_riva_pond.kreport -o madison_riva_pond.bracken -r 1500 -l S -t 1
  >> Checking for Valid Options...
@@ -1456,7 +1456,7 @@ BRACKEN OUTPUT PRODUCED: madison_riva_pond.bracken
 PROGRAM END TIME: 12-31-2019 06:16:39
   Bracken complete.
 ```
-[Bracken report](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_riva_pond.bracken)
+[Bracken report](https://github.com/nico-chung/loopseq/raw/master/data/madison_riva_pond.bracken)
 
 
 ## Diversity Analysis 
@@ -1472,7 +1472,7 @@ The number of species identified and top 3 species by abundance.
 
 Combine all bracken reports into a contingency table, convert to biom file and run plot rank abundance.
 
-[Madison water combined](https://github.com/nico-chung/loopseq_paper/raw/master/data/madison_water_combined.txt)
+[Madison water combined](https://github.com/nico-chung/loopseq/raw/master/data/madison_water_combined.txt)
 
 ```
 biom convert -i madison_water_combined.txt -o madison_water_combined.biom --to-hdf5 --table-type="OTU table" --process-obs-metadata taxonomy
