@@ -1,10 +1,10 @@
 # Analysis for LoopSeq 16S manuscript
 
-### [Zymo Mock Community Analysis](https://github.com/nico-chung/loopseq/blob/master/README.md#zymo-mock-community-analysis)
+### [Zymo Mock Community Analysis](https://github.com/nico-chung/loopseq#zymo-mock-community-analysis-1)
 
-### [ATCC Mock Human Communities Analysis](https://github.com/nico-chung/loopseq#atcc-mock-human-communities-analysis)
+### [ATCC Mock Human Communities Analysis](https://github.com/nico-chung/loopseq#atcc-mock-human-communities-analysis-1)
 
-### [Madison Water Samples Analysis](https://github.com/nico-chung/loopseq#madison-water-samples-analysis)
+### [Madison Water Samples Analysis](https://github.com/nico-chung/loopseq#madison-water-samples-analysis-1)
 
 &nbsp; 
 
