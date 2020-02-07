@@ -1,10 +1,10 @@
 # Analysis for LoopSeq 16S manuscript
 
-### [1. Zymo Mock Community Analysis](https://github.com/nico-chung/loopseq/blob/master/README.md#zymo-mock-community-analysis)
+### [Zymo Mock Community Analysis](https://github.com/nico-chung/loopseq/blob/master/README.md#zymo-mock-community-analysis)
 
-### [2. ATCC Mock Human Communities Analysis](https://github.com/nico-chung/loopseq#atcc-mock-human-communities-analysis)
+### [ATCC Mock Human Communities Analysis](https://github.com/nico-chung/loopseq#atcc-mock-human-communities-analysis)
 
-### [3. Madison Water Samples Analysis](https://github.com/nico-chung/loopseq#madison-water-samples-analysis)
+### [Madison Water Samples Analysis](https://github.com/nico-chung/loopseq#madison-water-samples-analysis)
 
 ### Computing Environment 
 
@@ -29,9 +29,9 @@
 # Zymo Mock Community Analysis 
 
 The Zymo mock community was analyzed using three methods:
-- [Mapping LoopSeq 16S contigs and Illumina V3V4 short reads to provided references](https://github.com/nico-chung/loopseq/blob/master/zymo.md#mapping-to-provided-references)
-- [Mapping LoopSeq 16S contigs to NCBI RefSeq references](https://github.com/nico-chung/loopseq/blob/master/zymo.md#mapping-to-ncbi-refseq-references)
-- [Classifying LoopSeq 16S contigs with LCA classifier](https://github.com/nico-chung/loopseq/blob/master/zymo.md#classification-with-lca-classifier)
+- [Mapping LoopSeq 16S contigs and Illumina V3V4 short reads to provided references](https://github.com/nico-chung/loopseq/blob/master/README.md#mapping-to-provided-references)
+- [Mapping LoopSeq 16S contigs to NCBI RefSeq references](https://github.com/nico-chung/loopseq/blob/master/README.md#mapping-to-ncbi-refseq-references)
+- [Classifying LoopSeq 16S contigs with LCA classifier](https://github.com/nico-chung/loopseq/blob/master/README.md#classification-with-lca-classifier)
 
 
 ## Data Preparation
@@ -651,8 +651,8 @@ Other species	| 0 | 2.6
 # ATCC Mock Human Communities Analysis 
 
 The two ATCC mock human communities were analyzed using two methods: 
-- [Mapping LoopSeq 16S contigs to whole genome strain references](README.md#mapping-to-whole-genome-references)
-- [Strain detection using LCA classifier](README.md#strain-level-detection-using-lca-classifier)
+- [Mapping LoopSeq 16S contigs to whole genome strain references](https://github.com/nico-chung/loopseq/blob/master/README.md#mapping-to-whole-genome-references)
+- [Strain detection using LCA classifier](https://github.com/nico-chung/loopseq/blob/master/README.md#strain-level-detection-using-lca-classifier)
 
 ## Data Preparation
 
