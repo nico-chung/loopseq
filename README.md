@@ -1,4 +1,8 @@
-# Analysis for LoopSeq 16S manuscript
+
+[![Loop Genomics](figures/loop_genomics.png)](https://www.loopgenomics.com/)
+
+[![Welgene Biotech](figures/welgene_biotech.png)](https://www.welgene.com.tw/main)
+
 
 ### [Zymo Mock Community Analysis](https://github.com/nico-chung/loopseq#zymo-mock-community-analysis-1)
 
@@ -7,6 +11,8 @@
 ### [Madison Water Samples Analysis](https://github.com/nico-chung/loopseq#madison-water-samples-analysis-1)
 
 &nbsp; 
+
+---
 
 ### Computing Environment 
 
