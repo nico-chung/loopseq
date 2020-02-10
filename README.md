@@ -17,8 +17,7 @@
 
 ### Computing Environment 
 
-#### R 
-- R v3.6.1
+#### R v3.6.1
 - Bioconductor v3.10
 - DADA2 v1.14.0 
 - ShortRead v1.44.0
@@ -111,7 +110,7 @@ hist(nchar(getSequences(zymo_noprimers)), 10)
 
 ## Mapping to Provided References
 
-Zymo replaced five strains in the Zymo standard with similar strains beginning with Lot ZRC190633. [The sample we sequenced was from LOT NUMBER ###]. As has been noted elsewhere (Callahan Benjamin C., et al. "High-throughput amplicon sequencing of the full-length 16S rRNA gene with single-nucleotide resolution", *Nucleic Acids Research*, 47.18 (2019): e103), the exact strains used are not disclosed and the [reference sequences](https://s3.amazonaws.com/zymo-files/BioPool/ZymoBIOMICS.STD.refseq.v2.zip) provided by Zymo Research do not exactly correspond to the strains provided. There are two versions of the references: version 1 and version 2. In both versions, there are systematic nucleotide substitutions that cannot be explained by sequencing or contig assembly error. The references include whole genomes and 16S genes only. In version 1 of the references, the whole genome references are in multiple contigs and in the 16S gene references, only one 16S copy is given for each species. Version 2 of references aren’t correct either but is still more correct than version 1. The new version has complete whole genome references and all 16S gene copies are given for each species. 
+Zymo replaced five strains in the Zymo standard with similar strains beginning with Lot ZRC190633. As has been noted elsewhere (Callahan Benjamin C., et al. "High-throughput amplicon sequencing of the full-length 16S rRNA gene with single-nucleotide resolution", *Nucleic Acids Research*, 47.18 (2019): e103), the exact strains used are not disclosed and the [reference sequences](https://s3.amazonaws.com/zymo-files/BioPool/ZymoBIOMICS.STD.refseq.v2.zip) provided by Zymo Research do not exactly correspond to the strains provided. There are two versions of the references: version 1 and version 2. In both versions, there are systematic nucleotide substitutions that cannot be explained by sequencing or contig assembly error. The references include whole genomes and 16S genes only. In version 1 of the references, the whole genome references are in multiple contigs and in the 16S gene references, only one 16S copy is given for each species. Version 2 of references aren’t correct either but is still more correct than version 1. The new version has complete whole genome references and all 16S gene copies are given for each species. 
 
 Concatenate all bacterial whole genome fasta files together and build a Bowtie2 index with version 2 of the whole genome references and map the filtered Zymo contigs. 
 
